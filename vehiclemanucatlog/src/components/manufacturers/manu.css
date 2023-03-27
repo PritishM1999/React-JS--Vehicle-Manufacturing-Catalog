@@ -1,0 +1,9 @@
+#search{
+    width: 200px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: antiquewhite;
+    font-size: larger;
+    border-radius: 2px;
+    border: 2px solid blue;
+  }
